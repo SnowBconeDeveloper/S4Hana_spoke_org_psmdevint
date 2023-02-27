@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SAP S/4HANA Users Records" max_length="40" name="sn_sap_s4_hana_rfc_sap_s_4hana_users_record" sizeclass="32" type="collection">
+        <element label="Role" max_length="32" name="agr_name" type="string"/>
+        <element label="Start date" max_length="32" name="from_dat" type="string"/>
+        <element label="Indirect User-Role Assignment" max_length="32" name="org_flag" type="string"/>
+        <element label="End date" max_length="32" name="to_dat" type="string"/>
+        <element label="User Name" max_length="32" name="uname" type="string"/>
+    </element>
+</database>

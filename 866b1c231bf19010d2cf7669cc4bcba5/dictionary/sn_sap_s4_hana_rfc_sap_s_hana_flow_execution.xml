@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SAP S/4HANA Flow Execution" max_length="40" name="sn_sap_s4_hana_rfc_sap_s_hana_flow_execution" sizeclass="1" type="collection">
+        <element display="true" label="Last Succesful Execution" max_length="32" name="last_succesful_execution" type="glide_date"/>
+    </element>
+</database>

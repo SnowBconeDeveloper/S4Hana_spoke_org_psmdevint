@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SAP S/4HANA Invoice Data" max_length="40" name="sn_sap_s4_hana_rfc_sap_s_4hana_invoice_data" sizeclass="1623" type="collection">
+        <element label="HEADERLIST.COMP_CODE" max_length="40" name="headerlist_comp_code" type="string"/>
+        <element label="HEADERLIST.CURRENCY" max_length="40" name="headerlist_currency" type="string"/>
+        <element label="HEADERLIST.CURRENCY_ISO" max_length="40" name="headerlist_currency_iso" type="string"/>
+        <element label="HEADERLIST.DIFF_INV" max_length="40" name="headerlist_diff_inv" type="string"/>
+        <element label="HEADERLIST.DOC_DATE" max_length="40" name="headerlist_doc_date" type="string"/>
+        <element label="HEADERLIST.ENTRY_DATE" max_length="40" name="headerlist_entry_date" type="string"/>
+        <element label="HEADERLIST.ENTRY_TIME" max_length="40" name="headerlist_entry_time" type="string"/>
+        <element label="HEADERLIST.FISC_YEAR" max_length="40" name="headerlist_fisc_year" type="string"/>
+        <element label="HEADERLIST.GROSS_AMNT" max_length="40" name="headerlist_gross_amnt" type="string"/>
+        <element label="HEADERLIST.HEADER_TXT" max_length="40" name="headerlist_header_txt" type="string"/>
+        <element label="HEADERLIST.INVOICE_STATUS" max_length="40" name="headerlist_invoice_status" type="string"/>
+        <element label="HEADERLIST.INV_DOC_NO" max_length="40" name="headerlist_inv_doc_no" type="string"/>
+        <element label="HEADERLIST.INV_TRAN_" max_length="40" name="headerlist_inv_tran" type="string"/>
+        <element label="HEADERLIST.PERSON_EXT" max_length="40" name="headerlist_person_ext" type="string"/>
+        <element label="HEADERLIST.PSTNG_DATE" max_length="40" name="headerlist_pstng_date" type="string"/>
+        <element label="HEADERLIST.REF_DOC_NO" max_length="40" name="headerlist_ref_doc_no" type="string"/>
+        <element label="HEADERLIST.REF_DOC_NO_LONG" max_length="40" name="headerlist_ref_doc_no_long" type="string"/>
+        <element label="HEADERLIST.TM_DOCUMENT" max_length="40" name="headerlist_tm_document" type="string"/>
+    </element>
+</database>
